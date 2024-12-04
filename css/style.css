@@ -13,7 +13,7 @@ body {
 }
 
 .header {
-    background: linear-gradient(135deg, #feae3d, #cfe651, #e48500);
+    background: linear-gradient(135deg, #7c00ad, #b95dde, #b128e7,#c381de);
     color: #ffffff;
     position: sticky;
     top: 0;
@@ -26,7 +26,7 @@ body {
 
 .header.shrink {
     padding: 10px 0;
-    background: linear-gradient(135deg, #f7d52b, #f3a811);
+    background: linear-gradient(135deg, #7c00ad, #b95dde, #b128e7,#c381de);
     transform: translateY(-10px);
 }
 
@@ -154,7 +154,7 @@ body {
         height: 100%;
         flex-direction: column;
         align-items: flex-start;
-        background: linear-gradient(135deg, #feae3d, #cfe651, #e48500);
+        background: linear-gradient(135deg,  #e8b8fd, #b128e7,#5b0d79);
         padding: 60px 30px;
         gap: 20px;
         transition: right 0.4s ease-in-out;
@@ -281,7 +281,7 @@ canvas {
 
 .lessons {
     padding: 100px 20px;
-    background: linear-gradient(135deg, #feae3d, #cfe651, #e48500);
+    background: linear-gradient(135deg, #7c00ad, #b95dde, #b128e7,#c381de);
     text-align: center;
     position: relative;
     z-index: 2;
